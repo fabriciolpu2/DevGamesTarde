@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 80457a638995d344a9ed4e2497a379cd
+timeCreated: 1519670583
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BaseBrinquedos.001
+    100002: BaseQuiosqueInferior
+    100004: BaseQuiosqueSuperior
+    100006: BaseQuiosqueSuperior.001
+    100008: CirculoBaseBrinquedos
+    100010: ColunaBaseInferior
+    100012: Cube.002
+    100014: EscadaRampaPrincipal
+    100016: FimRampaEscada.001
+    100018: InicioRampaEscada.001
+    100020: NurbsPath
+    100022: NurbsPath.001
+    100024: Plane
+    100026: Plane.002
+    100028: Plane.003
+    100030: //RootNode
+    100032: PlataformaInferior
+    100034: PlataformaInferior.001
+    100036: RampaEntrada.001
+    100038: RampaEscada.001
+    400000: BaseBrinquedos.001
+    400002: BaseQuiosqueInferior
+    400004: BaseQuiosqueSuperior
+    400006: BaseQuiosqueSuperior.001
+    400008: CirculoBaseBrinquedos
+    400010: ColunaBaseInferior
+    400012: Cube.002
+    400014: EscadaRampaPrincipal
+    400016: FimRampaEscada.001
+    400018: InicioRampaEscada.001
+    400020: NurbsPath
+    400022: NurbsPath.001
+    400024: Plane
+    400026: Plane.002
+    400028: Plane.003
+    400030: //RootNode
+    400032: PlataformaInferior
+    400034: PlataformaInferior.001
+    400036: RampaEntrada.001
+    400038: RampaEscada.001
+    2300000: BaseBrinquedos.001
+    2300002: BaseQuiosqueInferior
+    2300004: BaseQuiosqueSuperior
+    2300006: BaseQuiosqueSuperior.001
+    2300008: CirculoBaseBrinquedos
+    2300010: ColunaBaseInferior
+    2300012: Cube.002
+    2300014: EscadaRampaPrincipal
+    2300016: FimRampaEscada.001
+    2300018: InicioRampaEscada.001
+    2300020: NurbsPath
+    2300022: NurbsPath.001
+    2300024: Plane
+    2300026: Plane.002
+    2300028: Plane.003
+    2300030: PlataformaInferior
+    2300032: PlataformaInferior.001
+    2300034: RampaEntrada.001
+    2300036: RampaEscada.001
+    3300000: BaseBrinquedos.001
+    3300002: BaseQuiosqueInferior
+    3300004: BaseQuiosqueSuperior
+    3300006: BaseQuiosqueSuperior.001
+    3300008: CirculoBaseBrinquedos
+    3300010: ColunaBaseInferior
+    3300012: Cube.002
+    3300014: EscadaRampaPrincipal
+    3300016: FimRampaEscada.001
+    3300018: InicioRampaEscada.001
+    3300020: NurbsPath
+    3300022: NurbsPath.001
+    3300024: Plane
+    3300026: Plane.002
+    3300028: Plane.003
+    3300030: PlataformaInferior
+    3300032: PlataformaInferior.001
+    3300034: RampaEntrada.001
+    3300036: RampaEscada.001
+    4300000: NurbsPath.001
+    4300002: Plane.003
+    4300004: NurbsPath
+    4300006: Cube.002
+    4300008: Plane.002
+    4300010: BaseQuiosqueSuperior.001
+    4300012: Plane
+    4300014: PlataformaInferior.001
+    4300016: RampaEntrada.001
+    4300018: BaseBrinquedos.001
+    4300020: InicioRampaEscada.001
+    4300022: RampaEscada.001
+    4300024: FimRampaEscada.001
+    4300026: EscadaRampaPrincipal
+    4300028: PlataformaInferior
+    4300030: BaseQuiosqueInferior
+    4300032: BaseQuiosqueSuperior
+    4300034: CirculoBaseBrinquedos
+    4300036: ColunaBaseInferior
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concreto
+    second: {fileID: 2100000, guid: 9713c936658282d499253c84a2774209, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: b017c4766bd4d1b4097ab0c5e12b70ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: bfb1e718392ed4940a8ba4bfa968081e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 557ad073311be394bb402d3f0a2db3eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PisoEntrada
+    second: {fileID: 2100000, guid: 551d6854d3e0a1f49a052d33a3722e15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PisoRampaFinal.001
+    second: {fileID: 2100000, guid: 6eb0839dccd9ef94c8f6bc9f4f823c3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pisorampaprincipal
+    second: {fileID: 2100000, guid: b42a932b37552c64cae57656ac654e66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piso-vermelho
+    second: {fileID: 2100000, guid: 7289c84cd62799445a131a67e8997140, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piso-vermelho2
+    second: {fileID: 2100000, guid: fa1372011f3a84c4884d5b3d85ef5a9f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
