@@ -25,6 +25,13 @@ ModelImporter:
     100034: PlataformaInferior.001
     100036: RampaEntrada.001
     100038: RampaEscada.001
+    100040: BezierCurve.003
+    100042: Cube
+    100044: NurbsPath.002
+    100046: NurbsPath.003
+    100048: Plane.001
+    100050: Plane.004
+    100052: Plane.005
     400000: BaseBrinquedos.001
     400002: BaseQuiosqueInferior
     400004: BaseQuiosqueSuperior
@@ -45,6 +52,13 @@ ModelImporter:
     400034: PlataformaInferior.001
     400036: RampaEntrada.001
     400038: RampaEscada.001
+    400040: BezierCurve.003
+    400042: Cube
+    400044: NurbsPath.002
+    400046: NurbsPath.003
+    400048: Plane.001
+    400050: Plane.004
+    400052: Plane.005
     2300000: BaseBrinquedos.001
     2300002: BaseQuiosqueInferior
     2300004: BaseQuiosqueSuperior
@@ -64,6 +78,13 @@ ModelImporter:
     2300032: PlataformaInferior.001
     2300034: RampaEntrada.001
     2300036: RampaEscada.001
+    2300038: BezierCurve.003
+    2300040: Cube
+    2300042: NurbsPath.002
+    2300044: NurbsPath.003
+    2300046: Plane.001
+    2300048: Plane.004
+    2300050: Plane.005
     3300000: BaseBrinquedos.001
     3300002: BaseQuiosqueInferior
     3300004: BaseQuiosqueSuperior
@@ -83,6 +104,13 @@ ModelImporter:
     3300032: PlataformaInferior.001
     3300034: RampaEntrada.001
     3300036: RampaEscada.001
+    3300038: BezierCurve.003
+    3300040: Cube
+    3300042: NurbsPath.002
+    3300044: NurbsPath.003
+    3300046: Plane.001
+    3300048: Plane.004
+    3300050: Plane.005
     4300000: NurbsPath.001
     4300002: Plane.003
     4300004: NurbsPath
@@ -102,6 +130,13 @@ ModelImporter:
     4300032: BaseQuiosqueSuperior
     4300034: CirculoBaseBrinquedos
     4300036: ColunaBaseInferior
+    4300038: BezierCurve.003
+    4300040: NurbsPath.003
+    4300042: Cube
+    4300044: Plane.005
+    4300046: NurbsPath.002
+    4300048: Plane.004
+    4300050: Plane.001
   externalObjects:
   - first:
       type: UnityEngine:Material
