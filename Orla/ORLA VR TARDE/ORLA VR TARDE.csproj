@@ -219,8 +219,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Script\PlayerControler.cs" />
-    <Compile Include="Assets\Script\PlayerLook.cs" />
     <Compile Include="Assets\Script\PlayerLook2.cs" />
     <Compile Include="Assets\Script\PlayerMove.cs" />
   </ItemGroup>
