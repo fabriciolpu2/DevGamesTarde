@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 83c2db7585ae7fe46a387f45dded962b
-timeCreated: 1520282572
+guid: 77475e5b038e4ea4f90eeb5d542af88e
+timeCreated: 1520452646
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -9,13 +9,13 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: low
+    4300000: Cylinder.001
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: quioesque
-    second: {fileID: 2100000, guid: 50bf529e6d31d3347bc2bd2459ab62ce, type: 2}
+      name: madeira_brinquedo
+    second: {fileID: 2100000, guid: 626832b11c107604886052d112087333, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
