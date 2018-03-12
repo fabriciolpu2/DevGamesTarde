@@ -32,6 +32,23 @@ ModelImporter:
     100048: Plane.001
     100050: Plane.004
     100052: Plane.005
+    100054: Cube.001
+    100056: Cube.004
+    100058: NurbsPath.004
+    100060: Plane.006
+    100062: PlataformaInferior.002
+    100064: PlataformaInferior.003
+    100066: PlataformaInferior.004
+    100068: PlataformaInferior.005
+    100070: PlataformaInferior.006
+    100072: PlataformaInferior.007
+    100074: PlataformaInferior.008
+    100076: PlataformaInferior.009
+    100078: PlataformaInferior.010
+    100080: PlataformaInferior.011
+    100082: PlataformaInferior.012
+    100084: PlataformaInferior.013
+    100086: PlataformaInferior.014
     400000: BaseBrinquedos.001
     400002: BaseQuiosqueInferior
     400004: BaseQuiosqueSuperior
@@ -59,6 +76,23 @@ ModelImporter:
     400048: Plane.001
     400050: Plane.004
     400052: Plane.005
+    400054: Cube.001
+    400056: Cube.004
+    400058: NurbsPath.004
+    400060: Plane.006
+    400062: PlataformaInferior.002
+    400064: PlataformaInferior.003
+    400066: PlataformaInferior.004
+    400068: PlataformaInferior.005
+    400070: PlataformaInferior.006
+    400072: PlataformaInferior.007
+    400074: PlataformaInferior.008
+    400076: PlataformaInferior.009
+    400078: PlataformaInferior.010
+    400080: PlataformaInferior.011
+    400082: PlataformaInferior.012
+    400084: PlataformaInferior.013
+    400086: PlataformaInferior.014
     2300000: BaseBrinquedos.001
     2300002: BaseQuiosqueInferior
     2300004: BaseQuiosqueSuperior
@@ -85,6 +119,23 @@ ModelImporter:
     2300046: Plane.001
     2300048: Plane.004
     2300050: Plane.005
+    2300052: Cube.001
+    2300054: Cube.004
+    2300056: NurbsPath.004
+    2300058: Plane.006
+    2300060: PlataformaInferior.002
+    2300062: PlataformaInferior.003
+    2300064: PlataformaInferior.004
+    2300066: PlataformaInferior.005
+    2300068: PlataformaInferior.006
+    2300070: PlataformaInferior.007
+    2300072: PlataformaInferior.008
+    2300074: PlataformaInferior.009
+    2300076: PlataformaInferior.010
+    2300078: PlataformaInferior.011
+    2300080: PlataformaInferior.012
+    2300082: PlataformaInferior.013
+    2300084: PlataformaInferior.014
     3300000: BaseBrinquedos.001
     3300002: BaseQuiosqueInferior
     3300004: BaseQuiosqueSuperior
@@ -111,6 +162,23 @@ ModelImporter:
     3300046: Plane.001
     3300048: Plane.004
     3300050: Plane.005
+    3300052: Cube.001
+    3300054: Cube.004
+    3300056: NurbsPath.004
+    3300058: Plane.006
+    3300060: PlataformaInferior.002
+    3300062: PlataformaInferior.003
+    3300064: PlataformaInferior.004
+    3300066: PlataformaInferior.005
+    3300068: PlataformaInferior.006
+    3300070: PlataformaInferior.007
+    3300072: PlataformaInferior.008
+    3300074: PlataformaInferior.009
+    3300076: PlataformaInferior.010
+    3300078: PlataformaInferior.011
+    3300080: PlataformaInferior.012
+    3300082: PlataformaInferior.013
+    3300084: PlataformaInferior.014
     4300000: NurbsPath.001
     4300002: Plane.003
     4300004: NurbsPath
@@ -137,6 +205,23 @@ ModelImporter:
     4300046: NurbsPath.002
     4300048: Plane.004
     4300050: Plane.001
+    4300052: PlataformaInferior.014
+    4300054: PlataformaInferior.013
+    4300056: PlataformaInferior.012
+    4300058: PlataformaInferior.011
+    4300060: PlataformaInferior.010
+    4300062: PlataformaInferior.009
+    4300064: PlataformaInferior.008
+    4300066: PlataformaInferior.007
+    4300068: PlataformaInferior.006
+    4300070: PlataformaInferior.005
+    4300072: PlataformaInferior.004
+    4300074: PlataformaInferior.003
+    4300076: PlataformaInferior.002
+    4300078: NurbsPath.004
+    4300080: Cube.001
+    4300082: Plane.006
+    4300084: Cube.004
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -163,6 +248,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: PisoEntrada
     second: {fileID: 2100000, guid: 551d6854d3e0a1f49a052d33a3722e15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PisoPlataformaInferior1
+    second: {fileID: 2100000, guid: 6f7cea5ea3864064fb5bf496873fe07f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
