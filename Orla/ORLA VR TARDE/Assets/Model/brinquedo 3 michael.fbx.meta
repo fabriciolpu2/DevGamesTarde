@@ -15,7 +15,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: madeira_brinquedo
-    second: {fileID: 2100000, guid: 626832b11c107604886052d112087333, type: 2}
+    second: {fileID: 2100000, guid: 92abe834353ebce4db380679547a48b1, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -53,7 +53,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
