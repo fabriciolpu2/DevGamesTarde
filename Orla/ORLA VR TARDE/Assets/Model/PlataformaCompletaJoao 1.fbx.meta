@@ -49,6 +49,7 @@ ModelImporter:
     100082: PlataformaInferior.012
     100084: PlataformaInferior.013
     100086: PlataformaInferior.014
+    100088: Plane.007
     400000: BaseBrinquedos.001
     400002: BaseQuiosqueInferior
     400004: BaseQuiosqueSuperior
@@ -93,6 +94,7 @@ ModelImporter:
     400082: PlataformaInferior.012
     400084: PlataformaInferior.013
     400086: PlataformaInferior.014
+    400088: Plane.007
     2300000: BaseBrinquedos.001
     2300002: BaseQuiosqueInferior
     2300004: BaseQuiosqueSuperior
@@ -136,6 +138,7 @@ ModelImporter:
     2300080: PlataformaInferior.012
     2300082: PlataformaInferior.013
     2300084: PlataformaInferior.014
+    2300086: Plane.007
     3300000: BaseBrinquedos.001
     3300002: BaseQuiosqueInferior
     3300004: BaseQuiosqueSuperior
@@ -179,6 +182,7 @@ ModelImporter:
     3300080: PlataformaInferior.012
     3300082: PlataformaInferior.013
     3300084: PlataformaInferior.014
+    3300086: Plane.007
     4300000: NurbsPath.001
     4300002: Plane.003
     4300004: NurbsPath
@@ -222,12 +226,33 @@ ModelImporter:
     4300080: Cube.001
     4300082: Plane.006
     4300084: Cube.004
+    4300086: Plane.007
   externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseQuiosqueInferior
+    second: {fileID: 2100000, guid: 3b8bb56c5c5db874cb491d05a6532af8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseQuiosqueSuperior
+    second: {fileID: 2100000, guid: 8a377cfed0e8e9440a4b3a9785261a39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Canteiro
+    second: {fileID: 2100000, guid: 9e9951dc605a5874ab5b77bea6eb4a75, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Concreto
     second: {fileID: 2100000, guid: 9713c936658282d499253c84a2774209, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EscadaRampa
+    second: {fileID: 2100000, guid: d79d145b0d4330f45b8ef0a79825536b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -241,8 +266,23 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 556d57e5401304c4ebe956a141c853fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: No Name
     second: {fileID: 2100000, guid: 557ad073311be394bb402d3f0a2db3eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PisoBaseInferior
+    second: {fileID: 2100000, guid: d58d9c887a179cf4ea6ab316d0ff3f61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PisoBseSuperior
+    second: {fileID: 2100000, guid: a62c852af21673548bcdd05c868a1ec2, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -263,6 +303,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Pisorampaprincipal
     second: {fileID: 2100000, guid: b42a932b37552c64cae57656ac654e66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grama
+    second: {fileID: 2100000, guid: 778d978ac579390499649092b0432f52, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
