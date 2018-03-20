@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORLA VR TARDE", "ORLA VR TARDE.csproj", "{621E8C55-2DFB-839B-6D74-CDBEB2A380AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORLA VR TARDE.Editor", "ORLA VR TARDE.Editor.csproj", "{51BC135E-D0CE-CA9B-FA07-25D57E109480}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{621E8C55-2DFB-839B-6D74-CDBEB2A380AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{621E8C55-2DFB-839B-6D74-CDBEB2A380AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{621E8C55-2DFB-839B-6D74-CDBEB2A380AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51BC135E-D0CE-CA9B-FA07-25D57E109480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51BC135E-D0CE-CA9B-FA07-25D57E109480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51BC135E-D0CE-CA9B-FA07-25D57E109480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51BC135E-D0CE-CA9B-FA07-25D57E109480}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

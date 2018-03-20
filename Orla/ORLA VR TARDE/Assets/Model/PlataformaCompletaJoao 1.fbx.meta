@@ -50,6 +50,8 @@ ModelImporter:
     100084: PlataformaInferior.013
     100086: PlataformaInferior.014
     100088: Plane.007
+    100090: EscadaRampaPrincipal.004
+    100092: Plane.008
     400000: BaseBrinquedos.001
     400002: BaseQuiosqueInferior
     400004: BaseQuiosqueSuperior
@@ -95,6 +97,8 @@ ModelImporter:
     400084: PlataformaInferior.013
     400086: PlataformaInferior.014
     400088: Plane.007
+    400090: EscadaRampaPrincipal.004
+    400092: Plane.008
     2300000: BaseBrinquedos.001
     2300002: BaseQuiosqueInferior
     2300004: BaseQuiosqueSuperior
@@ -139,6 +143,9 @@ ModelImporter:
     2300082: PlataformaInferior.013
     2300084: PlataformaInferior.014
     2300086: Plane.007
+    2300088: EscadaRampaPrincipal.004
+    2300090: Plane.008
+    2300092: //RootNode
     3300000: BaseBrinquedos.001
     3300002: BaseQuiosqueInferior
     3300004: BaseQuiosqueSuperior
@@ -183,6 +190,9 @@ ModelImporter:
     3300082: PlataformaInferior.013
     3300084: PlataformaInferior.014
     3300086: Plane.007
+    3300088: EscadaRampaPrincipal.004
+    3300090: Plane.008
+    3300092: //RootNode
     4300000: NurbsPath.001
     4300002: Plane.003
     4300004: NurbsPath
@@ -227,6 +237,8 @@ ModelImporter:
     4300082: Plane.006
     4300084: Cube.004
     4300086: Plane.007
+    4300088: EscadaRampaPrincipal.004
+    4300090: Plane.008
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -248,6 +260,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Concreto
     second: {fileID: 2100000, guid: 9713c936658282d499253c84a2774209, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DegrauFrente
+    second: {fileID: 2100000, guid: 73675c9c45a96574f93b793c6d951922, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -286,6 +303,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: PisoCinza
+    second: {fileID: 2100000, guid: 14fbd4dc2ad4b5c4c8fc14579ac06d06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: PisoEntrada
     second: {fileID: 2100000, guid: 551d6854d3e0a1f49a052d33a3722e15, type: 2}
   - first:
@@ -298,6 +320,21 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: PisoRampaFinal.001
     second: {fileID: 2100000, guid: 6eb0839dccd9ef94c8f6bc9f4f823c3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PisoTextura
+    second: {fileID: 2100000, guid: 1791e952556792740ba1f216fe34a29a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PisoTexturaLampada
+    second: {fileID: 2100000, guid: e1e5a95dd18c1d448be57b5de010a82d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pisorampa1
+    second: {fileID: 2100000, guid: 8dd441074738c424a8653fc1530de450, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -355,7 +392,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
