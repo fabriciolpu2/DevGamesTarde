@@ -55,7 +55,7 @@ GameObject:
   - component: {fileID: 4362156927457806}
   - component: {fileID: 33240884495096930}
   - component: {fileID: 23122433945302954}
-  - component: {fileID: 64563229050490238}
+  - component: {fileID: 65342532460741522}
   m_Layer: 0
   m_Name: Banco
   m_TagString: Untagged
@@ -69,15 +69,15 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1957219007907306}
-  m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14.09, y: 25.62258, z: -16.250874}
-  m_LocalScale: {x: 100, y: 100.00032, z: 100.00032}
+  m_LocalRotation: {x: -0.7069834, y: -0, z: -0, w: 0.7072302}
+  m_LocalPosition: {x: -21.698624, y: 18.098, z: 87.37912}
+  m_LocalScale: {x: 100, y: 100, z: 100}
   m_Children:
   - {fileID: 4700363258919306}
   - {fileID: 4743144039040072}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: -89.98, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -89.98, y: 0, z: -90.00001}
 --- !u!4 &4700363258919306
 Transform:
   m_ObjectHideFlags: 1
@@ -227,8 +227,8 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1529863165456220}
   m_Mesh: {fileID: 4300000, guid: d29fc3a0ca818aa4cb2ee6f22e883bb9, type: 3}
---- !u!64 &64563229050490238
-MeshCollider:
+--- !u!65 &65342532460741522
+BoxCollider:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
@@ -237,7 +237,5 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Convex: 0
-  m_InflateMesh: 0
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 4300000, guid: afd335f8393dea74e904f9cdcae69e53, type: 3}
+  m_Size: {x: 0.0060004704, y: 0.027015496, z: 0.005999857}
+  m_Center: {x: -0.0000003068708, y: 0.010507819, z: -2.3283067e-10}
