@@ -37,6 +37,7 @@ GameObject:
   - component: {fileID: 4680600512042828}
   - component: {fileID: 33058805900702630}
   - component: {fileID: 23142931597854962}
+  - component: {fileID: 65250671147919976}
   m_Layer: 0
   m_Name: banheiro-bake
   m_TagString: Untagged
@@ -52,12 +53,12 @@ Transform:
   m_GameObject: {fileID: 1525348309791144}
   m_LocalRotation: {x: -0.49991274, y: -0.50008726, z: -0.49991274, w: 0.50008726}
   m_LocalPosition: {x: -7.03862, y: 18.403303, z: 128.78912}
-  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_LocalScale: {x: 95, y: 95, z: 95}
   m_Children:
   - {fileID: 4875213476691920}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: -89.98, y: -90, z: 0}
+  m_LocalEulerAnglesHint: {x: -89.98, y: 0, z: 0}
 --- !u!4 &4875213476691920
 Transform:
   m_ObjectHideFlags: 1
@@ -112,6 +113,18 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1525348309791144}
   m_Mesh: {fileID: 4300000, guid: c9311f66879ee554f831469580bb8f79, type: 3}
+--- !u!65 &65250671147919976
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1525348309791144}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.038317893, y: 0.06873608, z: 0.04621836}
+  m_Center: {x: 0.00007662585, y: 0.0008021079, z: 0.023317453}
 --- !u!108 &108067611369409002
 Light:
   m_ObjectHideFlags: 1

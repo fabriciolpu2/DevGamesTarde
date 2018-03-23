@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: 803fc9c252dd2bd40bd9ab185931a259
+timeCreated: 1521835992
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube.006
+    100002: Cube.007
+    100004: Cube.008
+    100006: Cube.009
+    100008: Cube.010
+    100010: Cube.011
+    100012: Cube.012
+    100014: Cube.013
+    100016: Cube.014
+    100018: Cube.015
+    100020: Cube.016
+    100022: Cube.017
+    100024: //RootNode
+    100026: Plane.009
+    100028: BaseQuiosqueSuperior.000
+    100030: BaseQuiosqueSuperior.001
+    100032: ColunaBaseInferior
+    100034: Cube
+    100036: Cube.001
+    100038: Cube.004
+    100040: EscadaRampaPrincipal.004
+    100042: FimRampaEscada.001
+    100044: NurbsPath
+    100046: NurbsPath.001
+    100048: NurbsPath.002
+    100050: NurbsPath.003
+    100052: NurbsPath.004
+    100054: Plane
+    100056: Plane.001
+    100058: Plane.002
+    100060: Plane.003
+    100062: Plane.004
+    100064: Plane.005
+    100066: Plane.006
+    100068: Plane.007
+    100070: Plane.008
+    100072: Plane.012
+    100074: Plane.015
+    100076: PlataformaInferior
+    100078: PlataformaInferior.013
+    100080: RampaEntrada.001
+    100082: RampaEscada.001
+    400000: Cube.006
+    400002: Cube.007
+    400004: Cube.008
+    400006: Cube.009
+    400008: Cube.010
+    400010: Cube.011
+    400012: Cube.012
+    400014: Cube.013
+    400016: Cube.014
+    400018: Cube.015
+    400020: Cube.016
+    400022: Cube.017
+    400024: //RootNode
+    400026: Plane.009
+    400028: BaseQuiosqueSuperior.000
+    400030: BaseQuiosqueSuperior.001
+    400032: ColunaBaseInferior
+    400034: Cube
+    400036: Cube.001
+    400038: Cube.004
+    400040: EscadaRampaPrincipal.004
+    400042: FimRampaEscada.001
+    400044: NurbsPath
+    400046: NurbsPath.001
+    400048: NurbsPath.002
+    400050: NurbsPath.003
+    400052: NurbsPath.004
+    400054: Plane
+    400056: Plane.001
+    400058: Plane.002
+    400060: Plane.003
+    400062: Plane.004
+    400064: Plane.005
+    400066: Plane.006
+    400068: Plane.007
+    400070: Plane.008
+    400072: Plane.012
+    400074: Plane.015
+    400076: PlataformaInferior
+    400078: PlataformaInferior.013
+    400080: RampaEntrada.001
+    400082: RampaEscada.001
+    2300000: Cube.006
+    2300002: Cube.007
+    2300004: Cube.008
+    2300006: Cube.009
+    2300008: Cube.010
+    2300010: Cube.011
+    2300012: Cube.012
+    2300014: Cube.013
+    2300016: Cube.014
+    2300018: Cube.015
+    2300020: Cube.016
+    2300022: Cube.017
+    2300024: Plane.009
+    2300026: BaseQuiosqueSuperior.000
+    2300028: BaseQuiosqueSuperior.001
+    2300030: ColunaBaseInferior
+    2300032: Cube
+    2300034: Cube.001
+    2300036: Cube.004
+    2300038: EscadaRampaPrincipal.004
+    2300040: FimRampaEscada.001
+    2300042: NurbsPath
+    2300044: NurbsPath.001
+    2300046: NurbsPath.002
+    2300048: NurbsPath.003
+    2300050: NurbsPath.004
+    2300052: Plane
+    2300054: Plane.001
+    2300056: Plane.002
+    2300058: Plane.003
+    2300060: Plane.004
+    2300062: Plane.005
+    2300064: Plane.006
+    2300066: Plane.007
+    2300068: Plane.008
+    2300070: Plane.012
+    2300072: Plane.015
+    2300074: PlataformaInferior
+    2300076: PlataformaInferior.013
+    2300078: RampaEntrada.001
+    2300080: RampaEscada.001
+    2300082: //RootNode
+    3300000: Cube.006
+    3300002: Cube.007
+    3300004: Cube.008
+    3300006: Cube.009
+    3300008: Cube.010
+    3300010: Cube.011
+    3300012: Cube.012
+    3300014: Cube.013
+    3300016: Cube.014
+    3300018: Cube.015
+    3300020: Cube.016
+    3300022: Cube.017
+    3300024: Plane.009
+    3300026: BaseQuiosqueSuperior.000
+    3300028: BaseQuiosqueSuperior.001
+    3300030: ColunaBaseInferior
+    3300032: Cube
+    3300034: Cube.001
+    3300036: Cube.004
+    3300038: EscadaRampaPrincipal.004
+    3300040: FimRampaEscada.001
+    3300042: NurbsPath
+    3300044: NurbsPath.001
+    3300046: NurbsPath.002
+    3300048: NurbsPath.003
+    3300050: NurbsPath.004
+    3300052: Plane
+    3300054: Plane.001
+    3300056: Plane.002
+    3300058: Plane.003
+    3300060: Plane.004
+    3300062: Plane.005
+    3300064: Plane.006
+    3300066: Plane.007
+    3300068: Plane.008
+    3300070: Plane.012
+    3300072: Plane.015
+    3300074: PlataformaInferior
+    3300076: PlataformaInferior.013
+    3300078: RampaEntrada.001
+    3300080: RampaEscada.001
+    3300082: //RootNode
+    4300000: Cube.006
+    4300002: Cube.007
+    4300004: Cube.008
+    4300006: Cube.009
+    4300008: Cube.010
+    4300010: Cube.011
+    4300012: Cube.012
+    4300014: Cube.013
+    4300016: Cube.014
+    4300018: Cube.015
+    4300020: Cube.016
+    4300022: Cube.017
+    4300024: Plane.009
+    4300026: Plane.015
+    4300028: Plane.012
+    4300030: BaseQuiosqueSuperior.000
+    4300032: EscadaRampaPrincipal.004
+    4300034: Plane.008
+    4300036: Plane.007
+    4300038: Plane
+    4300040: PlataformaInferior.013
+    4300042: NurbsPath.004
+    4300044: Cube.001
+    4300046: Plane.006
+    4300048: Cube.004
+    4300050: NurbsPath.003
+    4300052: Cube
+    4300054: Plane.005
+    4300056: NurbsPath.002
+    4300058: Plane.004
+    4300060: NurbsPath.001
+    4300062: Plane.003
+    4300064: NurbsPath
+    4300066: Plane.001
+    4300068: Plane.002
+    4300070: BaseQuiosqueSuperior.001
+    4300072: RampaEntrada.001
+    4300074: RampaEscada.001
+    4300076: ColunaBaseInferior
+    4300078: PlataformaInferior
+    4300080: FimRampaEscada.001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseQuiosqueInferior
+    second: {fileID: 2100000, guid: 3b8bb56c5c5db874cb491d05a6532af8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseQuiosqueSuperior
+    second: {fileID: 2100000, guid: 8a377cfed0e8e9440a4b3a9785261a39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Canteiro
+    second: {fileID: 2100000, guid: 9e9951dc605a5874ab5b77bea6eb4a75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concreto
+    second: {fileID: 2100000, guid: 9713c936658282d499253c84a2774209, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DegrauFrente
+    second: {fileID: 2100000, guid: 73675c9c45a96574f93b793c6d951922, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grades
+    second: {fileID: 2100000, guid: fe4fcfd07fd290648a844fd4ac10ced1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: bfb1e718392ed4940a8ba4bfa968081e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 556d57e5401304c4ebe956a141c853fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 557ad073311be394bb402d3f0a2db3eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pilar
+    second: {fileID: 2100000, guid: f468b6baef75bbc44924ec1e35a8cf71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PisoBaseInferior
+    second: {fileID: 2100000, guid: d58d9c887a179cf4ea6ab316d0ff3f61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PisoBseSuperior.001
+    second: {fileID: 2100000, guid: 090914264853b244dad609a714e13906, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PisoCinza
+    second: {fileID: 2100000, guid: 14fbd4dc2ad4b5c4c8fc14579ac06d06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PisoPlataformaInferior1
+    second: {fileID: 2100000, guid: 6f7cea5ea3864064fb5bf496873fe07f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PisoTextura
+    second: {fileID: 2100000, guid: 1791e952556792740ba1f216fe34a29a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PisoTexturaLampada
+    second: {fileID: 2100000, guid: e1e5a95dd18c1d448be57b5de010a82d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pisorampa1
+    second: {fileID: 2100000, guid: 8dd441074738c424a8653fc1530de450, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pisorampaprincipal
+    second: {fileID: 2100000, guid: b42a932b37552c64cae57656ac654e66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grama
+    second: {fileID: 2100000, guid: 778d978ac579390499649092b0432f52, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

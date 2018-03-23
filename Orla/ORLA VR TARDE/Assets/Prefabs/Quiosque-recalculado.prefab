@@ -21,6 +21,7 @@ GameObject:
   - component: {fileID: 4358767730286006}
   - component: {fileID: 33223780689951080}
   - component: {fileID: 23857148759233022}
+  - component: {fileID: 65354725065981014}
   m_Layer: 0
   m_Name: Quiosque-recalculado
   m_TagString: Untagged
@@ -34,13 +35,13 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1731115068164798}
-  m_LocalRotation: {x: -0.50000006, y: 0.50000006, z: 0.49999997, w: 0.49999997}
-  m_LocalPosition: {x: -32.233093, y: 25.929998, z: -44.320873}
-  m_LocalScale: {x: 95, y: 95, z: 95}
+  m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -2.9876251, y: 18.403301, z: 113.509125}
+  m_LocalScale: {x: 95, y: 100.00012, z: 100.00012}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 90}
 --- !u!23 &23857148759233022
 MeshRenderer:
   m_ObjectHideFlags: 1
@@ -82,3 +83,15 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1731115068164798}
   m_Mesh: {fileID: 4300002, guid: 8d6701e866587aa418b4e7d2ae305dc1, type: 3}
+--- !u!65 &65354725065981014
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1731115068164798}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.05379776, y: 0.0608849, z: 0.052608877}
+  m_Center: {x: 0.026973085, y: 0.027085736, z: 0.026304416}
